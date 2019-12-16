@@ -1,0 +1,10 @@
+.saveBtn {
+    background-color:#06AED5;
+  }
+  .jumbotron {
+    text-align: center;
+    border-bottom: 10px solid;
+  }
+  .hour {
+    border-top: 1px dotted grey;
+  }
