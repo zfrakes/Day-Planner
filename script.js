@@ -1,13 +1,10 @@
 $(document).ready(function() {
   $(".saveBtn").on("click", function() {
-    debugger;
     console.log(this);
     var value = $(this)
       .siblings(".description")
       .val();
-    // var time = $(this)
-    //   .siblings(".hour")
-    //   .text();
+
     var time = $(this)
       .parent()
       .attr("id");
@@ -23,16 +20,16 @@ $(document).ready(function() {
     }
   });
 
-  const currentTime = moment(new Date());
-  const currentHour = parseInt(currentTime.format("HH"));
-  const currentMins = currentTime.format("mm");
+  var currentTime = moment(new Date());
+  var currentHour = parseInt(currentTime.format("HH"));
+  var currentMins = currentTime.format("mm");
 
   $("#currentDay").text(currentTime.format("dddd MMMM DD,YYYY"));
 
   //select all hour divs
   const hourDivs = $("[id^=hour-]");
   $.each(hourDivs, function(index, value) {
-    //debugger;
+    
     var color = "grey";
     var id = parseInt(
       $(value)
