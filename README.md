@@ -19,6 +19,4 @@ Day Planner [live demo link](https://zfrakes.github.io/Day-Planner/)
 This application was created by Zoey Frakes. 
 
 ## License 
-The Day Planner is free software; you can redistribute it and/or modify.Planner is distributed in the hope that it will be useful device.
-
 Copyright © 2019-2020 Zoey Frakes. All Rights Reserved.
