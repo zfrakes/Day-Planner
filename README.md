@@ -15,11 +15,10 @@ The application works by displaying timeblocks for standard business hours (9 a.
 ## Launch
 Day Planner [live demo link](https://zfrakes.github.io/Day-Planner/)
 
-
-
 ## Author 
-This application was created by Zoey Frakes. To contact please email at zfrakes811@gmail.com
+This application was created by Zoey Frakes. 
 
 ## License 
-Planner is free software; you can redistribute it and/or modify it.Planner is distributed in the hope that it will be useful.
-Copyright © 2019 Zoey Frakes. All Rights Reserved.
+The Day Planner is free software; you can redistribute it and/or modify.Planner is distributed in the hope that it will be useful device.
+
+Copyright © 2019-2020 Zoey Frakes. All Rights Reserved.
