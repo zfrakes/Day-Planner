@@ -8,7 +8,7 @@
     
   }
   .hour {
-    border-top: 1px dotted grey;
+    border-top: 1px dotted #9dab86;
   }
   body{
     background-image: url("./images/Planner.png")
