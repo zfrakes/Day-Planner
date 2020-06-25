@@ -13,9 +13,9 @@ The application works by displaying timeblocks for standard business hours (9 a.
 * jQuery
 
 ## Launch
-To lauch this application click or copy and paste the following link in your browser.
+Password Generator [live demo link](https://zfrakes.github.io/Day-Planner/)
 
-https://zfrakes.github.io/Day-Planner/
+
 
 ## Author 
 This application was created by Zoey Frakes. To contact please email at zfrakes811@gmail.com
