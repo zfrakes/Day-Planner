@@ -30,14 +30,14 @@ $(document).ready(function() {
   var hourDivs = $("[id^=hour-]");
   $.each(hourDivs, function(index, value) {
     
-    var color = "grey";
+    var color = "e5e5e5";
     var id = parseInt(
       $(value)
         .attr("id")
         .replace("hour-", "")
     );
     if (id === currentHour) {
-      color = "red";
+      color = "bb596b";
     }
     if (id > currentHour) {
       color = "c7e2b2";
