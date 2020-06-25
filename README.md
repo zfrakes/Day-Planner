@@ -13,7 +13,7 @@ The application works by displaying timeblocks for standard business hours (9 a.
 * jQuery
 
 ## Launch
-Password Generator [live demo link](https://zfrakes.github.io/Day-Planner/)
+Day Planner [live demo link](https://zfrakes.github.io/Day-Planner/)
 
 
 
