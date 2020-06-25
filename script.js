@@ -40,7 +40,7 @@ $(document).ready(function() {
       color = "red";
     }
     if (id > currentHour) {
-      color = "green";
+      color = "c7e2b2";
     }
     console.log(id, currentHour, color);
     $(value)
