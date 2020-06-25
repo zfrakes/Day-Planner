@@ -4,7 +4,11 @@
   .jumbotron {
     text-align: center;
     border-bottom: 10px solid;
+    
   }
   .hour {
     border-top: 1px dotted grey;
+  }
+  body{
+    background-image: url("./images/Planner.png")
   }

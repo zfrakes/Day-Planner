@@ -27,7 +27,7 @@ $(document).ready(function() {
   $("#currentDay").text(currentTime.format("dddd MMMM DD,YYYY"));
 
   //select all hour divs
-  const hourDivs = $("[id^=hour-]");
+  var hourDivs = $("[id^=hour-]");
   $.each(hourDivs, function(index, value) {
     
     var color = "grey";
