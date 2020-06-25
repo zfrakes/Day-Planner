@@ -1,7 +1,7 @@
 # Day-Planner
 
 ## About/Description
- The day planner application is designed to help someone with a busy schedule keep track of their day. This application can save pending and completed tasks and events the user has implemented in their schedule for the current day. It is a powerful tool not only for managing your time and productivity but also for keeping all of the information you need to stay organized.
+ The day planner application is designed to help someone with a busy schedule keep track of their day. This application can save pending and completed tasks/ events the user has implemented in their schedule for the current day. It is a powerful device not only for managing your time and productivity but also for keeping all of the information you need to stay organized.
  
 The application works by displaying timeblocks for standard business hours (9 a.m. to 5 p.m.) for the current day. The current day is displayed at the top of the page for the user's view. Each timeblock contains an input field and saved button, where users can click a timeblock's "save" button, which store's the input text in local storage, allowing the text to persist when the application is refreshed. Each timeblock is color coded to indicate whether it is in a past (grey), present (red), or future hour (green).
 
